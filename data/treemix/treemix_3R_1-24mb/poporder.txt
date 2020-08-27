@@ -1,0 +1,17 @@
+AOcol	red
+BFcol	red
+GNcol	red
+GHcol	red
+CIcol	red
+BFgam	blue
+CMgam	blue
+GAgam	blue
+GHgam	blue
+GNgam	blue
+GQgam	blue
+UGgam	blue
+FRgam	blue
+KE	orange
+GM	orange
+GW	orange
+chri	purple
