@@ -1,0 +1,4 @@
+pop1	pop2	Fst
+GHgam	GW	0.053
+BFgam	GW	0.050
+GNgam	GW	0.050

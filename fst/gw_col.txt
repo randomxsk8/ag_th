@@ -1,0 +1,5 @@
+pop1	pop2	Fst
+BFcol	GW	0.049
+GNcol	GW	0.065
+CIcol	GW	0.047
+GHcol	GW	0.049

@@ -1,0 +1,5 @@
+pop1	pop2	Fst
+BFcol	GM	0.057
+GNcol	GM	0.076
+CIcol	GM	0.056
+GHcol	GM	0.058

@@ -1,0 +1,5 @@
+pop1	pop2	Fst
+GHgam	GM	0.050
+BFgam	GM	0.046
+GNgam	GM	0.046
+
